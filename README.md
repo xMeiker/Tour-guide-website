@@ -1,5 +1,4 @@
 # TOUR GUIDE WEBSITE
-Proyecto creado para la materia programación web 
 El proyecto que se propone es el desarrollo de un sitio web dedicado a la reserva de guías turísticas en la ciudad de Tijuana. El objetivo principal del sitio es proporcionar a los visitantes una plataforma fácil y conveniente para buscar y reservar guías turísticos profesionales que los acompañen durante su estancia en Tijuana.
 
 El sitio web se desarrollará utilizando un conjunto de tecnologías y herramientas clave. PHP será el lenguaje de programación principal para el desarrollo del backend del sitio. Se utilizarán bases de datos MySQL y el administrador PhpMyAdmin para gestionar la información relacionada con los guías turísticos, los usuarios y las reservas.
