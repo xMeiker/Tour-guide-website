@@ -12,8 +12,8 @@
 
 # Languages 💻
   • PHP<br>
-  • HTML
-  • JAVASCRIPT
+  • HTML<br>
+  • JAVASCRIPT<br>
   • CSS
 
 # Version 1.0 ✔
