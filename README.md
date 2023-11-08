@@ -17,4 +17,16 @@
   • JAVASCRIPT<br>
   • CSS
 
+# Platform
+  • Windows x64
+
+# System Requirements
+  • Visual Studio Code
+
+# Clone project in github or console VC
+ ```console
+> git clone https://github.com/xMeiker/Tour-guide-website.git
+> cd Tour-guide-website
+```  
+
 # Version 1.0 ✔
