@@ -30,3 +30,8 @@
 ```  
 
 # Version 1.0 ✔
+
+# Contact
+  • [Twitter][Twitter]
+
+[Twitter]: https://twitter.com/notmeiker 'Twitter'
