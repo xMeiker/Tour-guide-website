@@ -1,5 +1,5 @@
 <h1 align="center">  TOUR GUIDE WEBSITE TIJUANA, B.C. 🗺️ </h1>
-<p align="center"><img src="images/home-slide-1.jpg" width="480px" height="144px" alt="title"></p>
+<p align="center"><img src="images/home-slide-1.jpg" width="1920px" height="144px" alt="title"></p>
 
 # Information 📄
   • 🔍 El proyecto que se propone es el desarrollo de un sitio web dedicado a la reserva de guías turísticas en la ciudad de Tijuana, B.C. El objetivo principal del sitio es proporcionar a los visitantes una plataforma fácil y conveniente para buscar y reservar guías turísticos profesionales que los acompañen durante su estancia en Tijuana.
