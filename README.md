@@ -11,7 +11,7 @@
  •  📁 Cada módulo del proyecto será documentado apropiadamente, desde la definición de la estructura de la base de datos, pasando por la implementación del backend y frontend, hasta la documentación del código en cada módulo. Además, se considerará la diagramación UML para asegurar una correcta organización y comprensión del proyecto.
 
 # Languages 💻
-  • PHP
+  • PHP<br>
   • HTML
   • JAVASCRIPT
   • CSS
