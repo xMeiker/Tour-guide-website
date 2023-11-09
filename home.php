@@ -242,13 +242,13 @@
                <h3>Enlaces</h3>
                <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
                <a href="about.php"> <i class="fas fa-angle-right"></i> Acerca De </a>
-               <a href="package.php"> <i class="fas fa-angle-right"></i> Paquete </a>
+               <a href="package.php"> <i class="fas fa-angle-right"></i> Paquetes </a>
                <a href="book.php"> <i class="fas fa-angle-right"></i> Reserva</a>
             </div>
 
             <div class="box">
                <h3>Enlaces</h3>
-               <a href="#"> <i class="fas fa-angle-right"></i> pregunats</a>
+               <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
                <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
                <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>
                <a href="#"> <i class="fas fa-angle-right"></i> terminos de uso</a>

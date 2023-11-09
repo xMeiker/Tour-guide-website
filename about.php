@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>about</title>
+   <title>acerca de</title>
 
    <!-- enlace css deslizador  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -42,12 +42,12 @@
 
    <a href="home.php" class="logo">Tijuana, B.C.</a>
 
-   <nav class="navbar">
-      <a href="home.php">inicio</a>
-      <a href="about.php">acerca de</a>
-      <a href="package.php">paquetes</a>
-      <a href="book.php">reserva</a>
-   </nav>
+      <nav class="navbar">
+         <a href="home.php">Inicio</a>
+         <a href="package.php">Paquetes</a>
+         <a href="book.php">Reserva</a>
+         <a href="about.php">Acerca de</a>
+      </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
 
@@ -187,20 +187,6 @@
 
 <!-- reviews section ends -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 
 <section class="footer">
@@ -211,13 +197,13 @@
          <h3>Enlaces</h3>
          <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> Acerca De </a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> Paquete </a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> Paquetes </a>
          <a href="book.php"> <i class="fas fa-angle-right"></i> Reserva</a>
       </div>
 
       <div class="box">
          <h3>Enlaces</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> pregunats</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
          <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
          <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>
          <a href="#"> <i class="fas fa-angle-right"></i> terminos de uso</a>
@@ -245,14 +231,6 @@
 
 </section>
 <!-- footer section ends -->
-
-
-
-
-
-
-
-
 
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
