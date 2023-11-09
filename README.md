@@ -18,13 +18,13 @@
   • JAVASCRIPT<br>
   • CSS
 
-# Platform
+# Platform 🖥
   • Windows x64
 
-# System Requirements
+# System Requirements 👾
   • Visual Studio Code
 
-# Clone project in github or console VC
+# Clone project in github or console VC 🤖
  ```console
 > git clone https://github.com/xMeiker/Tour-guide-website.git
 > cd Tour-guide-website
@@ -32,7 +32,7 @@
 
 # Version 1.0 ✔
 
-# Contact
+# Contact 👤
   • [Twitter][Twitter]
 
 [Twitter]: https://twitter.com/iammeiker 'Twitter'
