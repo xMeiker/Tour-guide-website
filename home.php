@@ -160,7 +160,10 @@
 
          <div class="content">
             <h3>acerca de tijuana</h3>
-            <p>Tijuana B.C. es una ciudad fronteriza de México, al sur de California. Su desbordante calle principal, la Avenida Revolución, está repleta de tiendas de recuerdos y animados bares. Entre los sitios icónicos se incluyen el palacio Jai Alai Frontón y el Centro Cultural Tijuana, un moderno complejo cultural en el distrito Zona Río. La ciudad tiene estadios donde se presentan eventos de lucha libre, mientras que la ciudad de Rosarito tiene playas de arena.</p>
+            <p>Tijuana B.C. es una ciudad fronteriza de México, al sur de California. Su desbordante calle principal, la Avenida Revolución, 
+               está repleta de tiendas de recuerdos y animados bares. Entre los sitios icónicos se incluyen el palacio Jai Alai Frontón y el 
+               Centro Cultural Tijuana, un moderno complejo cultural en el distrito Zona Río. La ciudad tiene estadios donde se presentan eventos de lucha libre, 
+               mientras que la ciudad de Rosarito tiene playas de arena.</p>
             <a href="about.php" class="btn">leer más</a>
          </div>
 
