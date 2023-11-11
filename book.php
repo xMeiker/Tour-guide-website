@@ -31,7 +31,7 @@ if(isset($_POST['send'])){
    $insert_book = $conn->prepare("INSERT INTO `book_form`(id, name, email, phone, address, location, guests, arrivals, leaving) VALUES(?,?,?,?,?,?,?,?,?)");
    $insert_book->execute([$id, $name, $email, $phone, $address, $location, $guests, $arrivals, $leaving]);
 
-   $success_msg[] = 'Datos Registrados!'; 
+   $success_msg[] = 'Datos Registrados, en un momento seras contactado!'; 
 
 }
 
@@ -102,7 +102,7 @@ if(isset($_POST['send'])){
 
 <section class="booking">
 
-   <h1 class="heading-title">reserva tu viaje!</h1>
+   <h1 class="heading-title">No te quedes sin un lugar!</h1>
 
    <form action="" method="post" class="book-form">
 

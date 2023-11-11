@@ -105,7 +105,7 @@
             <img src="images/img-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Que hacer</h3>
+            <h3>Entretenimiento</h3>
             <p>Descubre lugares a los que puedes visitar y divertirte!</p>
             <a href="places.php" class="btn">ver mas</a>
          </div>

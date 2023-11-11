@@ -68,7 +68,7 @@
    </div>
 
    <div class="content">
-      <h3>por que elegir tijuana?</h3>
+      <h3>¿por que elegir tijuana?</h3>
       <p>Tijuana es una ciudad mexicana localizada en el estado de Baja California, siendo la cabecera del municipio homónimo. Es la 2.ª ciudad más poblada de México al contar con un total de 1 810 645 habitantes en el año 2020,9​ siendo también la 6.ª zona metropolitana más poblada del país que conforma, junto con los municipios de Playas de Rosarito y Tecate, la zona metropolitana fronteriza más grande de México, con una población de 2 157 853 habitantes. El municipio de Tijuana es según el INEGI, el más poblado del país.10​Además de ser una de las ciudades con mejor temperatura en todo el mundo, teniendo de temperaturas de 9º a 26 °C.</p>
 
       <div class="icons-container">
