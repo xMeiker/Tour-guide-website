@@ -151,7 +151,7 @@
             <p>me hubira gustado ir a tecate</p>
             <h3>arely torres</h3>
             <span>reservador</span>
-            <img src="images/pic-4.png" alt="">
+            <img src="images/pic-1.png" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -202,7 +202,7 @@
       </div>
 
       <div class="box">
-         <h3>Enlaces</h3>
+         <h3>Sobre Nosotros</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
          <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
          <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>

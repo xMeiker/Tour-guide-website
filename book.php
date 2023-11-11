@@ -164,7 +164,7 @@ if(isset($_POST['send'])){
       </div>
 
       <div class="box">
-         <h3>Enlaces</h3>
+         <h3>Sobre Nosotros</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
          <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
          <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>

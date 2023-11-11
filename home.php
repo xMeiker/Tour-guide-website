@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
    <head>
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -152,6 +152,8 @@
 
       <!-- inicio sobre la sección de about  -->
 
+      <h1 class="heading-title"> Información </h1>
+
       <section class="home-about">
 
          <div class="image">
@@ -171,6 +173,58 @@
 
       <!-- termino sobre la sección de about -->
 
+      <!-- seccion sobre informacion sobre la pagina -->
+
+      <section class="home-about">
+
+         <div class="image">
+            <img src="images/sobre-img.jpg" alt="">
+         </div>
+
+         <div class="content">
+            <h3>¿que encontraras aqui?</h3>
+            <p>se trata de un sitio web dedicado para los turistas o personas en general que deseen conocer mas y visitar diversos lugares de la ciudad de Tijuana, B.C. 
+               El objetivo principal del sitio es proporcionar a los visitantes una plataforma fácil y conveniente para buscar 
+               y reservar lugares a los cuales poder pasar un buen rato y conocer la ciudad en general, asi mismo poder brindarles algunos guias profesionales 
+               que los acompañen durante su estancia en Tijuana.</p>
+         </div>
+
+      </section>
+
+      <!-- seccion sobre novedades -->
+
+      <h1 class="heading-title"> Novedades</h1>
+
+      <section class="home-about">
+
+         <div class="image">
+            <img src="images/novedad1-img.jpg" alt="">
+         </div>
+
+         <div class="content">
+            <h3>Recibe Tijuana 8.5 millones de turistas</h3>
+            <p>Tijuana, BC.- El municipio de Tijuana recibió a más de 8.5 millones de visitantes y turistas de enero a agosto del 2023, 
+               compartió el presidente del Comité de Turismo y Convenciones Municipal (Cotuco), Arturo Gutiérrez Sánchez.
+               El titular de la paramunicipal precisó que esto representa un incremento del 4.7% con relación a lo registrado en el año pasado, 
+               esto considerando eventos celebrados a nivel local y afluencia en establecimientos.</p>
+         </div>
+
+      </section>
+
+      <section class="home-about">
+
+         <div class="image">
+            <img src="images/novedad2-img.jpg" alt="">
+         </div>
+
+         <div class="content">
+            <h3>Tijuana presenta nuevo servicio de transporte público que cruzará la frontera a San Ysidro</h3>
+            <p>La ciudad de Tijuana anunció un nuevo servicio de transporte de ida y vuelta entre la Avenida Revolución y San Ysidro (California). 
+               Se estima que, en un inicio, esta opción de transporte beneficiará a más de 30 mil personas al mes.</p>
+         </div>
+
+      </section>
+
       <!-- comienza la sección de paquetes  -->
 
       <section class="home-packages">
@@ -184,9 +238,9 @@
                   <img src="images/img-1.jpg" alt="">
                </div>
                <div class="content">
-                  <h3>Comidas</h3>
+                  <h3>Comida</h3>
                   <p>Descubre las mejores gastronomias en tijuana!</p>
-                  <a href="book.php" class="btn">reserva ahora</a>
+                  <a href="book.php" class="btn">ver mas</a>
                </div>
             </div>
 
@@ -197,7 +251,7 @@
                <div class="content">
                   <h3>Lugares</h3>
                   <p>Descubre los mejores lugares en tijuana!</p>
-                  <a href="book.php" class="btn">reserva ahora</a>
+                  <a href="book.php" class="btn">ver mas</a>
                </div>
             </div>
             
@@ -208,7 +262,7 @@
                <div class="content">
                   <h3>Playas</h3>
                   <p>Conoce las playas y sus locales increibles!</p>
-                  <a href="book.php" class="btn">reserva ahora</a>
+                  <a href="book.php" class="btn">ver mas</a>
                </div>
             </div>
 
@@ -247,7 +301,7 @@
             </div>
 
             <div class="box">
-               <h3>Enlaces</h3>
+               <h3>Sobre Nosotros</h3>
                <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
                <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
                <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>

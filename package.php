@@ -72,20 +72,20 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>comidas</h3>
+            <h3>Restaurantes</h3>
             <p>Descubre las mejores gastronomias en tijuana!</p>
-            <a href="book.php" class="btn">reserva ahora</a>
+            <a href="restaurants.php" class="btn">ver mas</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/img-10.jpg" alt="">
          </div>
          <div class="content">
-            <h3>cecut</h3>
-            <p>visita el cecut!</p>
-            <a href="book.php" class="btn">reserva ahora</a>
+            <h3>Hoteles</h3>
+            <p>Descubre los hoteles mas cercanos y reserva ahora!</p>
+            <a href="hotels.php" class="btn">ver mas</a>
          </div>
       </div>
       
@@ -94,46 +94,66 @@
             <img src="images/img-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Playa</h3>
+            <h3>Playas</h3>
             <p>Conoce las playas y sus locales increibles!</p>
-            <a href="book.php" class="btn">reserva ahora</a>
+            <a href="beachs.php" class="btn">ver mas</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-4.jpg" alt="">
+            <img src="images/img-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>plaza peninsula</h3>
-            <p>Disfruta le mejor plaza de tijuana con sus cientos de locales!</p>
-            <a href="book.php" class="btn">reserva ahora</a>
+            <h3>Que hacer</h3>
+            <p>Descubre lugares a los que puedes visitar y divertirte!</p>
+            <a href="places.php" class="btn">ver mas</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-5.jpg" alt="">
+            <img src="images/img-13.jpg" alt="">
          </div>
          <div class="content">
-            <h3>ITT</h3>
-            <p>conoce la mejor universidad, no solo de tijuana sino de todo mexico!</p>
-            <a href="book.php" class="btn">reserva ahora</a>
+            <h3>Museos</h3>
+            <p>Conoce sobre la cultura y arte de la ciudad y adentrate al museo!</p>
+            <a href="museums.php" class="btn">ver mas</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-6.jpg" alt="">
+            <img src="images/img-14.jpg" alt="">
          </div>
          <div class="content">
-            <h3>UABC</h3>
-            <p>la segunda mejor universidad....</p>
-            <a href="book.php" class="btn">reserva ahora</a>
+            <h3>Transporte publico</h3>
+            <p>Conoce las estaciones que hay y donde puedes tomar tu transporte hacia tu destino.</p>
+            <a target="_blank" href="https://maps.app.goo.gl/YdJdXAkZK6ZY3Lir8" class="btn">ir</a>
          </div>
       </div>
 
-      
+      <div class="box">
+         <div class="image">
+            <img src="images/img-15.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Farmacias</h3>
+            <p>Descubre la farmacia mas cercana a tu ubicación.</p>
+            <a target="_blank" href="https://maps.app.goo.gl/CMCXK5m8n8ceowc49" class="btn">ir</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/img-16.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Cajeros automaticos</h3>
+            <p>¿Necesitas dinero y no sabes donde hay un cajero cerca? dale click aqui y descubre los cajeros mas cercanos a tu ubicación.</p>
+            <a target="_blank" href="https://maps.app.goo.gl/amCe9XtCSPv6CHLX8" class="btn">ir</a>
+         </div>
+      </div>
 
    </div>
 
@@ -173,7 +193,7 @@
       </div>
 
       <div class="box">
-         <h3>Enlaces</h3>
+         <h3>Sobre Nosotros</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
          <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
          <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>
