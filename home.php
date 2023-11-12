@@ -240,7 +240,7 @@
                <div class="content">
                   <h3>Comida</h3>
                   <p>Descubre las mejores gastronomias en tijuana!</p>
-                  <a href="book.php" class="btn">ver mas</a>
+                  <a href="restaurants.php" class="btn">ver mas</a>
                </div>
             </div>
 
@@ -251,7 +251,7 @@
                <div class="content">
                   <h3>Lugares</h3>
                   <p>Descubre los mejores lugares en tijuana!</p>
-                  <a href="book.php" class="btn">ver mas</a>
+                  <a href="places.php" class="btn">ver mas</a>
                </div>
             </div>
             
@@ -262,7 +262,7 @@
                <div class="content">
                   <h3>Playas</h3>
                   <p>Conoce las playas y sus locales increibles!</p>
-                  <a href="book.php" class="btn">ver mas</a>
+                  <a href="beachs.php" class="btn">ver mas</a>
                </div>
             </div>
 
