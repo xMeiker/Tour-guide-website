@@ -115,32 +115,32 @@
          <div class="box-container">
 
             <div class="box">
-               <img src="images/icon-1.png" alt="">
+               <a href="package.php"><img src="images/icon-1.png" alt=""></a>
                <h3>Aventura</h3>
             </div>
 
             <div class="box">
-               <img src="images/icon-2.png" alt="">
+               <a href="package.php"><img src="images/icon-2.png" alt=""></a>
                <h3>guia turistica</h3>
             </div>
 
             <div class="box">
-               <img src="images/icon-3.png" alt="">
+               <a href="package.php"><img src="images/icon-3.png" alt=""></a>
                <h3>caminatas</h3>
             </div>
 
             <div class="box">
-               <img src="images/icon-6.png" alt="">
+               <a href="package.php"><img src="images/icon-6.png" alt=""></a>
                <h3>fogatas</h3>
             </div>
 
             <div class="box">
-               <img src="images/icon-5.png" alt="">
+               <a href="package.php"><img src="images/icon-5.png" alt=""></a>
                <h3>caminos</h3>
             </div>
 
             <div class="box">
-               <img src="images/icon-6.png" alt="">
+               <a href="package.php"><img src="images/icon-6.png" alt=""></a>
                <h3>campamento</h3>
             </div>
 
